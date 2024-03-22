@@ -1,0 +1,3 @@
+- adicionar . e , 
+- prolongar um pouco mas as linhas (aleatoriamente)
+
